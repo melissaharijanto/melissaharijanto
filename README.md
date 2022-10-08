@@ -13,9 +13,8 @@ My name is Melissa, and I am a Computer Science undergraduate at the National Un
 </a>
 
 ## GitHub Stats
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true">
+
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
