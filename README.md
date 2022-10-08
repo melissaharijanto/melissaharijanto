@@ -2,9 +2,20 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-## GitHub Stats
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true)]
+My name is Melissa, and I am a Computer Science undergraduate at the National University of Singapore. Interested in web and frontend development. Nice to meet you!
 
+## Find Me
+<a href="https://www.linkedin.com/in/melissaharijanto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.behance.net/melisara">
+  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+</a>
+
+## GitHub Stats
+<p align = "center">
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true)]
+</p>
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
