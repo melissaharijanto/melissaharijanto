@@ -22,7 +22,7 @@ My name is Melissa, and I am a Computer Science undergraduate at the National Un
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">&nbsp;
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true" width="350">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true" width="500">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=nightowl" width="350">
 
 <!--
