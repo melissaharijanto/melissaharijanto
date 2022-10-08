@@ -23,7 +23,7 @@ My name is Melissa, and I am a Computer Science undergraduate at the National Un
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=nightowl&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=nightowl">
 
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
