@@ -1,6 +1,9 @@
-### Welcome to my GitHub Page!
+## Welcome to my GitHub Page!
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+## GitHub Stats
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaharijanto)]
 
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
