@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name is Melissa, and I am a Computer Science undergraduate at the National University of Singapore. Interested in web and frontend development. Nice to meet you!
+My name is Melissa, a Computer Science undergraduate at the National University of Singapore. Interested in web and frontend development. Nice to meet you!
 
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/melissaharijanto/">
@@ -22,8 +22,8 @@ My name is Melissa, and I am a Computer Science undergraduate at the National Un
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">&nbsp;
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=tokyonight&show_icons=true" width="420">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=tokyonight" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=tokyonight&show_icons=true" width="45%">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=tokyonight" width="45%">
 
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
