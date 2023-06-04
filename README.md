@@ -10,9 +10,9 @@ My name is Melissa, a Computer Science undergraduate at the National University 
 <a href="https://www.linkedin.com/in/melissaharijanto/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.behance.net/melisara">
+<!-- <a href="https://www.behance.net/melisara">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
-</a>
+</a> -->
 
 ### Everything I Have Worked With:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">&nbsp;
@@ -30,7 +30,7 @@ My name is Melissa, a Computer Science undergraduate at the National University 
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=tokyonight&show_icons=true" width="45%">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=tokyonight" width="38%">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaharijanto&layout=compact&theme=tokyonight" width="38%"> -->
 
 <!--
 **melissaharijanto/melissaharijanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
