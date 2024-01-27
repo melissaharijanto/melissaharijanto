@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page!
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=melissaharijanto&style=for-the-badge)
 
 ### About Me
 
