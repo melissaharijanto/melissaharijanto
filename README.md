@@ -27,6 +27,9 @@ My name is Melissa, a Computer Science undergraduate at the National University 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="50" height="50">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" width="50" height="50">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" width="50" height="50">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50">&nbsp;
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=melissaharijanto&theme=tokyonight&show_icons=true" width="45%">&nbsp;
