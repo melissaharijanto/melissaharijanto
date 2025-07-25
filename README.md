@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name is Melissa, a recent Computer Science graduate from the National University of Singapore. Nice to meet you!
+My name is Melissa, a 2025 Computer Science graduate from the National University of Singapore. Nice to meet you!
 
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/melissaharijanto/">
