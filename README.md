@@ -6,6 +6,8 @@
 
 My name is Melissa, a 2025 Computer Science graduate from the National University of Singapore. Nice to meet you!
 
+I am currently based in Singapore.
+
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/melissaharijanto/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
