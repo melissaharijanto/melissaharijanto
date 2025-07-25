@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name is Melissa, a Computer Science undergraduate at the National University of Singapore. Interested in web and frontend development. Nice to meet you!
+My name is Melissa, a recent Computer Science graduate from the National University of Singapore. Nice to meet you!
 
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/melissaharijanto/">
